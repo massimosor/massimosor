@@ -20,6 +20,9 @@ A simple and interactive counter application built to practice JavaScript fundam
 ### [To-Do List](https://github.com/massimosor/to-do-list)
 A functional to-do list application where users can add, delete, and manage tasks. This project helped me understand DOM manipulation and event handling in JavaScript.
 
+### [Caclulator](https://github.com/massimosor/calculator)
+A simple Caclulator application where users can make calculations with basic and some advanced mathematical operations. It also includes a Memory function. 
+
 ---
 
 ## 🌱 What's Next?
