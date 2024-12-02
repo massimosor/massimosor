@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I'm a passionate beginner in the world of programm
 
 ## 🛠️ Projects
 
-### [Counter](https://github.com/massimosor/counter)
+### [Counter](https://github.com/massimosor/counter) - [[Live Demo]](https://massimosor.github.io/counter/)
 A simple and interactive counter application built to practice JavaScript fundamentals. It allows users to increment, decrement, and reset values dynamically.
 
-### [To-Do List](https://github.com/massimosor/to-do-list)
+### [To-Do List](https://github.com/massimosor/to-do-list) - [[Live Demo]](https://massimosor.github.io/to-do-list/)
 A functional to-do list application where users can add, delete, and manage tasks. This project helped me understand DOM manipulation and event handling in JavaScript.
 
-### [Caclulator](https://github.com/massimosor/calculator)
+### [Caclulator](https://github.com/massimosor/calculator) - [[Live Demo]](https://massimosor.github.io/calculator/)
 A simple Caclulator application where users can make calculations with basic and some advanced mathematical operations. It also includes a Memory function. 
 
 ---
